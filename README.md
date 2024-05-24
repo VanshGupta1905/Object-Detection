@@ -1,3 +1,3 @@
 # Object-Detection
 
-# Detecting Objects within a Image
+# Detecting Objects within the Image
